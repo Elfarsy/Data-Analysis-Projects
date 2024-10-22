@@ -49,3 +49,8 @@ Sales Analysis
 Aggregate Sales Data: Uses SUM() and COUNT() to derive total sales and employee counts by category and shipping modes.
 Data Grouping
 Dynamic Grouping: Shows how to group results dynamically using NTILE(), and analyze data trends with ROLLUP() and CUBE().
+
+CHECK SOURCE CODE : https://github.com/Elfarsy/Data-Analysis-Projects/blob/main/SubQuery%20Refrence.sql
+DDL used : https://github.com/Elfarsy/Data-Analysis-Projects/blob/main/project-db.txt
+datasets : https://github.com/Elfarsy/Data-Analysis-Projects/blob/main/Sales.csv
+           https://github.com/Elfarsy/Data-Analysis-Projects/blob/main/Customers.csv
