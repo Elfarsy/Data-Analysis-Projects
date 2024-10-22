@@ -30,7 +30,7 @@ CHECK SOURCE CODE:https://github.com/Elfarsy/Data-Analysis-Projects/blob/main/Na
 
 DOWNLOAD DATASET :https://github.com/Elfarsy/Data-Analysis-Projects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.csv
 
-# 2-SQL Functions and Analysis Project
+# 2-SQL SUBQUERY REFERENCE - Functions and Analysis Project 
 This project showcases a series of SQL exercises focused on advanced querying techniques and aggregate window functions. It includes practical examples demonstrating the use of various SQL functions to analyze employee data, sales records, and department information.
 
 Features
