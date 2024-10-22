@@ -24,5 +24,7 @@ I created queries to break down property addresses and owner details into separa
 
 Several update queries were executed to enrich the data by filling in missing or inconsistent information, such as property addresses, owner addresses, and legal references.
 The project demonstrated the importance of data cleaning and structuring in preparing a dataset for further analysis, such as market trend assessments and real estate insights. By transforming and organizing the Nashville housing data, I made it ready for deeper analytics using tools like Power BI or Python for further exploration.
+
 CHECK SOURCE CODE:https://github.com/Elfarsy/Data-Analysis-Projects/blob/main/NashvilleHousingSQLQuery.sql
+
 DOWNLOAD DATASET :https://github.com/Elfarsy/Data-Analysis-Projects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.csv
