@@ -57,3 +57,42 @@ DDL used : https://github.com/Elfarsy/Data-Analysis-Projects/blob/main/project-d
 datasets : https://github.com/Elfarsy/Data-Analysis-Projects/blob/main/Sales.csv
 
  https://github.com/Elfarsy/Data-Analysis-Projects/blob/main/Customers.csv
+
+--POWER BI Project 
+#-1 Sales Analysis Dashboard with Power BI
+This project showcases a Sales Analysis Dashboard created using Power BI, leveraging Power Query and DAX techniques for data analysis and visualization. The dashboard provides actionable insights into sales performance across various regions and includes financial overviews with tax adjustments.
+
+🚀 Key Features
+Sales Analysis by Region
+
+Visualized total sales and units sold using interactive charts.
+Tax-Adjusted Sales Calculation
+
+Added a calculated column to include sales with a tax rate of 1.5% for a comprehensive financial overview.
+Key Metrics
+
+Average sales and units sold.
+Distributor sales performance metrics.
+Dynamic Reporting
+
+Interactive reports showing sales trends by invoice date.
+Progress Tracking
+
+Measures and visualizations to track sales progress against predefined goals.
+📈 Benefits of the Dashboard
+Enhanced Decision-Making
+Empower stakeholders with accurate, visual insights to make data-driven decisions.
+Flexible Analysis Tools
+Included slicers and cards for easy data filtering and deeper analysis.
+🛠️ Tools Used
+Power BI: For building the dashboard.
+Power Query: For data transformation.
+DAX: For creating calculated columns and measures.
+🗂️ Project Files
+The repository includes:
+
+The Power BI Dashboard file (.pbix).
+A sample dataset (if required).
+A detailed walkthrough of the DAX formulas and Power Query transformations used.
+📨 Get In Touch
+If you're interested in exploring this project or want to try it out with the dataset, feel free to contact me!
