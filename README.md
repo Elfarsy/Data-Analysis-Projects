@@ -80,12 +80,18 @@ Interactive reports showing sales trends by invoice date.
 Progress Tracking
 
 Measures and visualizations to track sales progress against predefined goals.
+
 📈 Benefits of the Dashboard
+
 Enhanced Decision-Making
 Empower stakeholders with accurate, visual insights to make data-driven decisions.
+
 Flexible Analysis Tools
+
 Included slicers and cards for easy data filtering and deeper analysis.
+
 🛠️ Tools Used
+
 Power BI: For building the dashboard.
 Power Query: For data transformation.
 DAX: For creating calculated columns and measures.
@@ -93,6 +99,7 @@ DAX: For creating calculated columns and measures.
 The repository includes:
 
 The Power BI Dashboard file https://github.com/Elfarsy/Data-Analysis-Projects/blob/main/Cocacola%20Dashboard.pbix (.pbix).
+
 A detailed walkthrough of the DAX formulas and Power Query transformations used.
 
 📨 Get In Touch
