@@ -100,6 +100,8 @@ The repository includes:
 
 The Power BI Dashboard file https://github.com/Elfarsy/Data-Analysis-Projects/blob/main/Cocacola%20Dashboard.pbix (.pbix).
 
+Used Dataset https://github.com/Elfarsy/Data-Analysis-Projects/blob/main/Cocacola%20Dataset.xlsx (.xslx)
+
 A detailed walkthrough of the DAX formulas and Power Query transformations used.
 
 📨 Get In Touch
