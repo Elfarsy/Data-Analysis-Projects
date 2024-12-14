@@ -59,7 +59,8 @@ datasets : https://github.com/Elfarsy/Data-Analysis-Projects/blob/main/Sales.csv
  https://github.com/Elfarsy/Data-Analysis-Projects/blob/main/Customers.csv
 
 --POWER BI Project 
-#-1 Sales Analysis Dashboard with Power BI
+
+# 1-Sales Analysis Dashboard with Power BI
 This project showcases a Sales Analysis Dashboard created using Power BI, leveraging Power Query and DAX techniques for data analysis and visualization. The dashboard provides actionable insights into sales performance across various regions and includes financial overviews with tax adjustments.
 
 🚀 Key Features
