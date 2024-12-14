@@ -92,8 +92,8 @@ DAX: For creating calculated columns and measures.
 🗂️ Project Files
 The repository includes:
 
-The Power BI Dashboard file (.pbix).
-A sample dataset (if required).
+The Power BI Dashboard file https://github.com/Elfarsy/Data-Analysis-Projects/blob/main/Cocacola%20Dashboard.pbix (.pbix).
 A detailed walkthrough of the DAX formulas and Power Query transformations used.
+
 📨 Get In Touch
 If you're interested in exploring this project or want to try it out with the dataset, feel free to contact me!
